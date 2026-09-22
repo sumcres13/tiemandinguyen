@@ -2,6 +2,8 @@
 
 Static website for Tiệm ăn Di Nguyên. The repository root is the deployable site directory used by Vercel.
 
+The `main` branch is connected to the production Vercel project.
+
 ## Local preview
 
 ```powershell
